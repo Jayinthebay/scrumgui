@@ -1,4 +1,4 @@
-ScrumGUI
+ScrumGUI™
 ========
 
 An awesome scrum board for  [Gitlab](https://github.com/gitlabhq/gitlabhq).
@@ -16,3 +16,4 @@ An awesome scrum board for  [Gitlab](https://github.com/gitlabhq/gitlabhq).
 - If approved, issue is merged the "DEV" branch. You can then Merge DEV -> MASTER when you desire.
 - Scrumboard user roles mapped to Gitlab Roles (e.g. guest, reporter, developer..)
 - Indication of new Issue comments and Git releated activity on each ScrumGui Task
+
