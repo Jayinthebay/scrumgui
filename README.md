@@ -1,7 +1,7 @@
 scrumgui
 ========
 
-A Scrum Board for GitLab
+A Scrum Board for  [Gitlab](https://github.com/gitlabhq/gitlabhq).
 
 ![Alt text](http://oi60.tinypic.com/rrhwyg.jpg "The ScrumGUI interface to GitLab")
 
