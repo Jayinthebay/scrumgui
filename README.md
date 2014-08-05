@@ -16,4 +16,3 @@ A Scrum Board for GitLab
 - If approved, issue is merged the "DEV" branch. You can then Merge DEV -> MASTER when you desire.
 - Scrumboard user roles mapped to Gitlab Roles (e.g. guest, reporter, developer..)
 - Indication of new Issue comments and Git releated activity on each ScrumGui Task
-- 
